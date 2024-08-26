@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1724355624865" clover="3.2.0">
+  <project timestamp="1724355624866" name="All files">
+    <metrics statements="11" coveredstatements="10" conditionals="7" coveredconditionals="6" methods="2" coveredmethods="2" elements="20" coveredelements="18" complexity="0" loc="11" ncloc="11" packages="1" files="2" classes="2"/>
+    <file name="calculadora.js" path="C:\Users\gusta\calculadora-palindromo\calculadora.js">
+      <metrics statements="7" coveredstatements="6" conditionals="7" coveredconditionals="6" methods="1" coveredmethods="1"/>
+      <line num="2" count="5" type="cond" truecount="4" falsecount="1"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="10" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="12" count="0" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+    </file>
+    <file name="palindromo.js" path="C:\Users\gusta\calculadora-palindromo\palindromo.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
